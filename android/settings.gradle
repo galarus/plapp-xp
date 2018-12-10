@@ -1,0 +1,3 @@
+rootProject.name = 'PlapRx'
+
+include ':app'
